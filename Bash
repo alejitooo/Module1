@@ -1,0 +1,2 @@
+ng new mi-proyecto-bootstrap
+cd mi-proyecto-bootstrap
